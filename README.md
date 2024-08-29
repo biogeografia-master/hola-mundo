@@ -151,7 +151,9 @@ Sigue los siguientes pasos recomendados:
   te evalúe.
 - Lo que te funcione mejor, así de simple.
 
-2.  Verifica que eres miembro/a de la organización
+2.  Reproduce el [vídeo tutorial “Hola Mundo …”]().
+
+3.  Verifica que eres miembro/a de la organización
     <https://github.com/biogeografia-202402>. Si iniciaste sesión en
     GitHub, al entrar a la URL de la organización, debería ver que eres
     miembro/a en la sección “People”. También puedes verlo en tu perfil
@@ -160,13 +162,11 @@ Sigue los siguientes pasos recomendados:
     la organización allí. De lo contrario, si no lo eres, pide que te
     envíe una invitación.
 
-3.  Acepta la invitación de GitHub Classroom de esta “Prácticas de
-    desarrollo 1. Hola Mundo” (PD01).
+4.  Acepta la invitación de GitHub Classroom de esta “PD01. Hola Mundo”
+    (PD01).
 
-4.  Confirma que se creó tu repositorio en la organización
+5.  Confirma que se creó tu repositorio en la organización
     <https://github.com/biogeografia-202402>.
-
-5.  Reproduce el [vídeo tutorial “Hola Mundo …”]().
 
 6.  Rellena las partes correspondientes en `mi-primer-manuscrito.Rmd`,
     siguiendo el mandato y el vídeo tutorial.
@@ -248,6 +248,3 @@ Sigue los siguientes pasos recomendados:
 ![](qr-tutorial1.jpg)
 
 - [Vídeo tutorial de esta práctica (PD01)]().
-
-- [Invitación de GitHub Classroom de esta
-  práctica](https://classroom.github.com/a/hiEyUvci).
