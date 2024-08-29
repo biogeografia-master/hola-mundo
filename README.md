@@ -249,8 +249,5 @@ Sigue los siguientes pasos recomendados:
 
 - [Vídeo tutorial de esta práctica (PD01)]().
 
-![](qr-video-tutorial.jpg)
-
-- [Invitación de GitHub Classroom de esta práctica]().
-
-![](qr-invitacion-gh-classroom.jpg)
+- [Invitación de GitHub Classroom de esta
+  práctica](https://classroom.github.com/a/hiEyUvci).
