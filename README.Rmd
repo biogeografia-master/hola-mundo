@@ -1,5 +1,5 @@
 ---
-title: "Práctica de desarrollo 1. PD01. Hola Mundo<small><br>Geomorfología (GEO-131)<br>Universidad Autónoma de Santo Domingo (UASD)<br>Semestre 2024-02</small>"
+title: "Práctica de desarrollo 1. PD01. Hola Mundo<small><br>Biogeografía (GEO-131)<br>Universidad Autónoma de Santo Domingo (UASD)<br>Semestre 2024-02</small>"
 author: "El Tali"
 date: "`r format(Sys.Date(), '%Y-%m-%d')`"
 output:
@@ -81,7 +81,7 @@ organizacion <- ifelse(
 
 # Resultados Esperados
 
-- Comprendes los tipos de objetos básicos en R y su aplicación en un análisis geomorfológico.
+- Comprendes los tipos de objetos básicos en R y su aplicación en un análisis biogeográfico/ecológico.
 
 - Manejas los elementos principales de la interfaz de RStudio para ejecutar código y visualizar resultados.
 
@@ -99,7 +99,7 @@ organizacion <- ifelse(
 
 Realiza, en el cuaderno RMarkdown `mi-primer-manuscrito.Rmd` de tu propio repo clonado, el ejercicio de inferencia a partir de dos muestras apareadas de la [práctica de aula 2 (PA02)](`r url_pa02`) usando las funciones de R al efecto, siguiendo un guión de manuscrito científico reproducible, que incluye lo siguiente (deberás rellenar en el archivo `mi-primer-manuscrito.Rmd` y también "tejerlo"):
 
-> En el archivo `mi-primer-manuscrito.Rmd`, coloqué mayúsculas allí donde debes rellenar contenido.
+> En el archivo `mi-primer-manuscrito.Rmd`, coloqué mayúsculas allí donde debes rellenar contenido, pero dichas partes del documento no son las únicas que deberás atender, tal como verás en el detalle a continuación.
 
 - "Hola Mundo". Un bloque de código con las distintas formas de saludar al mundo en R.
 
@@ -219,6 +219,6 @@ Sigue los siguientes pasos recomendados:
 
 ![](qr-video-tutorial.jpg)
 
-- [Invitación de GitHub Classroom de esta práctica](https://classroom.github.com/a/8b5Nk4vy).
+- [Invitación de GitHub Classroom de esta práctica]().
 
 ![](qr-invitacion-gh-classroom.jpg)

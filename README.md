@@ -1,4 +1,4 @@
-Práctica de desarrollo 1. PD01. Hola Mundo<small><br>Geomorfología
+Práctica de desarrollo 1. PD01. Hola Mundo<small><br>Biogeografía
 (GEO-131)<br>Universidad Autónoma de Santo Domingo (UASD)<br>Semestre
 2024-02</small>
 ================
@@ -6,7 +6,7 @@ El Tali
 2024-08-29
 
 Versión HTML (quizá más legible),
-[aquí](https://geomorfologia-master.github.io/hola-mundo/README.html)
+[aquí](https://biogeografia-master.github.io/hola-mundo/README.html)
 
 > “Hola Mundo … sin embargo, el mundo nunca contesta. Dado que el mundo
 > no contesta, mejor pongámonos manos a la obra con análisis, que sí
@@ -48,7 +48,7 @@ desarrollo está configurado correctamente.
 # Resultados Esperados
 
 - Comprendes los tipos de objetos básicos en R y su aplicación en un
-  análisis geomorfológico.
+  análisis biogeográfico/ecológico.
 
 - Manejas los elementos principales de la interfaz de RStudio para
   ejecutar código y visualizar resultados.
@@ -73,13 +73,15 @@ desarrollo está configurado correctamente.
 Realiza, en el cuaderno RMarkdown `mi-primer-manuscrito.Rmd` de tu
 propio repo clonado, el ejercicio de inferencia a partir de dos muestras
 apareadas de la [práctica de aula 2
-(PA02)](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones)
+(PA02)](https://github.com/biogeografia-master/dos-muestras-independientes-biometria)
 usando las funciones de R al efecto, siguiendo un guión de manuscrito
 científico reproducible, que incluye lo siguiente (deberás rellenar en
 el archivo `mi-primer-manuscrito.Rmd` y también “tejerlo”):
 
 > En el archivo `mi-primer-manuscrito.Rmd`, coloqué mayúsculas allí
-> donde debes rellenar contenido.
+> donde debes rellenar contenido, pero dichas partes del documento no
+> son las únicas que deberás atender, tal como verás en el detalle a
+> continuación.
 
 - “Hola Mundo”. Un bloque de código con las distintas formas de saludar
   al mundo en R.
@@ -123,7 +125,7 @@ el archivo `mi-primer-manuscrito.Rmd` y también “tejerlo”):
 # Entregable
 
 Tu repositorio de GitHub, subido a la organización
-<https://github.com/geomorfologia-202402>, conteniendo tanto el cuaderno
+<https://github.com/biogeografia-202402>, conteniendo tanto el cuaderno
 RMarkdown reproducible editado por ti (`mi-primer-manuscrito.Rmd`), así
 como el archivo `mi-primer-manuscrito.pdf` que generarás “tejiendo” el
 referido cuaderno (más explicación en el vídeo tutorial).
@@ -150,7 +152,7 @@ Sigue los siguientes pasos recomendados:
 - Lo que te funcione mejor, así de simple.
 
 2.  Verifica que eres miembro/a de la organización
-    <https://github.com/geomorfologia-202402>. Si iniciaste sesión en
+    <https://github.com/biogeografia-202402>. Si iniciaste sesión en
     GitHub, al entrar a la URL de la organización, debería ver que eres
     miembro/a en la sección “People”. También puedes verlo en tu perfil
     de cuenta de GitHub, haciendo clic en tu avatar (en la página de
@@ -162,7 +164,7 @@ Sigue los siguientes pasos recomendados:
     desarrollo 1. Hola Mundo” (PD01).
 
 4.  Confirma que se creó tu repositorio en la organización
-    <https://github.com/geomorfologia-202402>.
+    <https://github.com/biogeografia-202402>.
 
 5.  Reproduce el [vídeo tutorial “Hola Mundo …”]().
 
@@ -249,7 +251,6 @@ Sigue los siguientes pasos recomendados:
 
 ![](qr-video-tutorial.jpg)
 
-- [Invitación de GitHub Classroom de esta
-  práctica](https://classroom.github.com/a/8b5Nk4vy).
+- [Invitación de GitHub Classroom de esta práctica]().
 
 ![](qr-invitacion-gh-classroom.jpg)
