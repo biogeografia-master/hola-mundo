@@ -1,5 +1,5 @@
 ---
-title: "Práctica de desarrollo 1. PD01. Hola Mundo<small><br>Biogeografía (GEO-131)<br>Universidad Autónoma de Santo Domingo (UASD)<br>Semestre 2024-02</small>"
+title: "Práctica de desarrollo 1. PD01. Hola Mundo<small><br>Biogeografía (GEO-131)<br>Universidad Autónoma de Santo Domingo (UASD)<br>Semestre 2025-01</small>"
 author: "El Tali"
 date: "`r format(Sys.Date(), '%Y-%m-%d')`"
 output:
@@ -41,7 +41,7 @@ url_pa02 <- ifelse(
   grepl('geomorfologia', repo_url),
   'https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones',
   'https://github.com/biogeografia-master/dos-muestras-independientes-biometria')
-semestre <- '202402'
+semestre <- '202501'
 github_raiz <- 'https://github.com/'
 organizacion <- ifelse(
   grepl('geomorfologia', repo_url),
@@ -55,7 +55,7 @@ organizacion <- ifelse(
 
 # Fecha/hora de entrega
 
-**6 de septiembre de 2024, 11:59 pm.**
+**[VER PORTAL DE LA ASIGNATURA](https://github.com/biogeografia-202501)**
 
 # Objetivos de aprendizaje
 

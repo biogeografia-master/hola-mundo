@@ -1,9 +1,9 @@
 Práctica de desarrollo 1. PD01. Hola Mundo<small><br>Biogeografía
 (GEO-131)<br>Universidad Autónoma de Santo Domingo (UASD)<br>Semestre
-2024-02</small>
+2025-01</small>
 ================
 El Tali
-2024-08-30
+2025-02-11
 
 Versión HTML (quizá más legible),
 [aquí](https://biogeografia-master.github.io/hola-mundo/README.html)
@@ -19,7 +19,8 @@ desarrollo está configurado correctamente.
 
 # Fecha/hora de entrega
 
-**6 de septiembre de 2024, 11:59 pm.**
+**[VER PORTAL DE LA
+ASIGNATURA](https://github.com/biogeografia-202501)**
 
 # Objetivos de aprendizaje
 
@@ -125,7 +126,7 @@ el archivo `mi-primer-manuscrito.Rmd` y también “tejerlo”):
 # Entregable
 
 Tu repositorio de GitHub, subido a la organización
-<https://github.com/biogeografia-202402>, conteniendo tanto el cuaderno
+<https://github.com/biogeografia-202501>, conteniendo tanto el cuaderno
 RMarkdown reproducible editado por ti (`mi-primer-manuscrito.Rmd`), así
 como el archivo `mi-primer-manuscrito.pdf` que generarás “tejiendo” el
 referido cuaderno (más explicación en el vídeo tutorial).
@@ -156,7 +157,7 @@ Sigue los siguientes pasos recomendados:
 
 3.  Inicia sesión en GitHub si aún no lo has hecho. Verifica que eres
     miembro/a de la organización, primero entrando en ella visitando
-    esta URL: <https://github.com/biogeografia-202402>. Al entrar,
+    esta URL: <https://github.com/biogeografia-202501>. Al entrar,
     puedes verificar tu membresía en la sección `People`; si eres
     miembro/a, verás tu nombre de usuario listado allí. También puedes
     verlo en tu perfil de cuenta de GitHub, haciendo clic en tu avatar
@@ -184,7 +185,7 @@ Sigue los siguientes pasos recomendados:
     (PD01). Se creará un repositorio personalizado en la organización.
 
 6.  Confirma que se creó tu repositorio personalizado en la organización
-    <https://github.com/biogeografia-202402>.
+    <https://github.com/biogeografia-202501>.
 
 7.  Clona tu repositorio personalizado en el servidor RStudio. Para
     esto, deberás acceder con tus credenciales, las cuales te envié
